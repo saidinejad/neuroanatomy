@@ -1,0 +1,507 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "f3958020-ef6f-11ef-836f-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-176dce1c173a5c72a683485579a6d596db4dbd80.jpg",
+        "paste-4f9f92564f7ba30d817abbd46a54b9f841c38448.jpg",
+        "paste-6f34210626482b3f01b41ab60897613d9bd9b11d.jpg",
+        "paste-8613cbca6b47adc0eb62b55f14f9ac12ee993bb5.jpg",
+        "paste-cc3f3a3c568892a66686389d8d7ea2e998f891f8.jpg",
+        "paste-f52556e2ca554b2f98328e189b5f00c40338282c.jpg"
+    ],
+    "name": "neuroanatomy",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@20d5bf3",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "مراحل رشد نخاع:<br>ماه سوم جنینی<br>ماه پنجم جنینی<br>زمان تولد<br>بزرگسالی",
+                "کل کانال مهره ای<br>تا مهره‌ی S1<br>تا مهره‌ی L3<br>تا مهره‌ی L1-L2"
+            ],
+            "guid": "Kw@vxvIi[k",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سگمان های نخاعی",
+                "۸ گردنی<br>۱۲ سینه ای<br>۵ کمری<br>۵ خاجی<br>۱ دنبالچه‌ای"
+            ],
+            "guid": "N,yJ:T0&zp",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علت تفاوت تعداد مهره‌های گردنی و سگمان های گردنی نخاع",
+                "یدونه از بالای مهره‌ی C1 خارج میشه<br>مهره ها ۷ تا <br>سگمان ها ۸ تا"
+            ],
+            "guid": "g&S3eaR`57",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cervical and Lumbar enlargements ",
+                "ناشی از شبکه بازویی و کمری<br>حجم ماده خاکستری بیشتر از سفید<br>C4-T2<br>T11-L1"
+            ],
+            "guid": "z[5NRpoiP%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Conus medullaris",
+                "مخروط انتهایی<br>انتهای نخاع مخروطی شکل می شود"
+            ],
+            "guid": "oInoQZK0sj",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رشته های دم عصبی",
+                "Cauda equine<br>معادلِ اعصاب کمری ساکرال (خاجی) کوکسیکس (دنبالچه ای)<br>"
+            ],
+            "guid": "k}<a*wYUc[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اسیب به مهره ها:<br>گردنی<br>سینه‌ای فوقانی<br>T6 به پایین",
+                "اسیب‌ به عصب هم‌شماره<br>اسیب به عصب هم شماره و یکی بالاتر<br>اسیب به عصب هم شماره و یکی بالاتر و دوتا بالاتر<br>(هرچی میریم پایین تر محدوده‌ی اسیب وسیع‌تر میشه چون اعصاب از مهر‌ه‌ی مورد نظرشون دورترن و مسیر طولانی‌تری طی میکنن)<br><img src=\"paste-176dce1c173a5c72a683485579a6d596db4dbd80.jpg\">"
+            ],
+            "guid": "h6a-*cFT]j",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محتویات نرم شامه",
+                "شریان <br>Pia mater"
+            ],
+            "guid": "tc&(akTi*i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Denticulate ligaments",
+                "رباط های دندانه ای<br>مثلثی شکل: قاعده نرم شامه، راس سخت شامه (سوراخ کننده عنکبوتیه)<br>۱۸ تا ۲۴ جفت"
+            ],
+            "guid": "GhL|26nXpW",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arachnoid تا کجاست؟",
+                "S2"
+            ],
+            "guid": "lHhY^H+4_C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dura mater تا کجاست",
+                "S2"
+            ],
+            "guid": "vvFY]*tgnc",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محتویات فضاهای<br>Subarachnoid <br>Subdural<br>Epidural",
+                "مایع مغزی نخاعی<br>هیچی (فضای مجازی)<br>چربی و ورید<br><img src=\"paste-cc3f3a3c568892a66686389d8d7ea2e998f891f8.jpg\">"
+            ],
+            "guid": "o8^z?J2X>g",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Filum terminalis",
+                "Internal<br>تا S2<br>کیسه‌ی سخت شامه و عنکبوتیه تموم میشه (فضای subarachnoid تموم میشه)<br>مرطوبه<br>External<br>تا coccyx<br>امتداد نرم شامه"
+            ],
+            "guid": "vVq=>B@5oa",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "LP<br>کجا<br>چرا",
+                "کشیدن مایع مغزی-نخاعی<br>از قنات کمری lumbar cisten<br>بین L3-L4<br><br>چون ۱. نخاع تموم شده ۲. زوائد خاری کمری کوتاه و افقی‌ن"
+            ],
+            "guid": "m/>@].exW)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شیارهای نخاع",
+                "۶ یا ۸ عدد<br>Anterior median fissure: عمیق، باز، تا کانال مرکزی<br>Posterior median sulcus: نرم شامه سپتوم، باز نیست<br>2× anterolateral sulci: خروج ریشه قدامی<br>2× posterolateral sulci: خروج ریشه خلفی<br><br>Posterior intermediate sulcus: تنها در نخاع گردنی و نیمه فوقانی<br><img src=\"paste-f52556e2ca554b2f98328e189b5f00c40338282c.jpg\">"
+            ],
+            "guid": "B}^]:kS*~G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ورید های نخاعی کجان",
+                "در فضای epidural"
+            ],
+            "guid": "O_EHHeq}54",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funiculus های نخاع",
+                "ماده‌ی سفید بین شیار ها:<br>Ventral<br>Lateral<br>Dorsal<br>+ در نخاع گردنی و نیمه فوقانی سینه ای(بخاطر شیار posterior intermediate ):<br>Gracilis (داخلی تر)<br>Cuneatus (خارجی‌تر)<br><img src=\"paste-6f34210626482b3f01b41ab60897613d9bd9b11d.jpg\">"
+            ],
+            "guid": "iY{SRN<}WX",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grey commissure ",
+                "ماده‌ی خاکستری نخاع در اطراف کانال مرکزی که دو بخش راست و چپ رو متصل میکنه<br><img src=\"paste-8613cbca6b47adc0eb62b55f14f9ac12ee993bb5.jpg\">"
+            ],
+            "guid": "o*~2F@wo8p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام شاخ نخاعی کلفت تر است؟",
+                "قدامی (به سطح نمیرسه برخلاف خلفی)"
+            ],
+            "guid": "dc%YSTof&z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سیستم سمپاتیک ..... و سیستم پاراسمپاتیک ..... است.",
+                "توراکولومبار<br>کرانیوساکرال"
+            ],
+            "guid": "LRU_g4-i5)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lateral horn های نخاع در کدام سگمان ها حضور دارند؟",
+                "T1-L3<br>S2-S4"
+            ],
+            "guid": "JY5w~3>3V~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اجسام سلولی در CNS و PNS",
+                "هسته ها nucleus <br>گانگلیون ها"
+            ],
+            "guid": "y.F`TqpxhM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته‌های نخاعی",
+                "شاخ خلفی:<br>Posteromarginal <br>Substantia gelatinosa<br>Properius<br>بینابینی:<br>Intermediolateral <br>Intermediomedial<br>Dorsal (Clarke)<br>شاخ قدامی:<br>Medial<br>Central (phrenic, onuf, accessory)<br>Lateral<br>(+ بینابینی)<br><img src=\"paste-4f9f92564f7ba30d817abbd46a54b9f841c38448.jpg\">"
+            ],
+            "guid": "s@+jal]>yW",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دروازه‌ی درد کدام هسته‌ی نخاعی است؟",
+                "Substantia gelatinosa "
+            ],
+            "guid": "D5,3{u(R)o",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته های شاخ خلفی نخاع در کدام سگمان ها حاضراند؟",
+                "هر سه در تمام سگمان ها"
+            ],
+            "guid": "wkXB5U,gSI",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رولاندو کاشف کدام هسته نخاعی است؟",
+                "Substantia gelatinosa "
+            ],
+            "guid": "M.W^y1,a_T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام پیام های حسی وارد شده به نخاع باید وارد کدام هسته شوند؟",
+                "Proper "
+            ],
+            "guid": "K=xSZvwDEN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lateral horn دارای کدام هسته نخاعی است",
+                "Intermediolateral "
+            ],
+            "guid": "KyU[1sqc[L",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "حس های احشایی در کدام هسته نخاعی پردازش می شوند و در کدام سگمان ها این هسته حضور دارد؟",
+                "Intermediomedial <br>همه "
+            ],
+            "guid": "EC>,juS:|3",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته‌ی clarke مسئول چه حسی است؟",
+                "Proprioceptive "
+            ],
+            "guid": "cMvL6=SrFY",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد و سگمان های نخاعی هسته‌ی central، anterior horn نخاع:",
+                "حرکت عضلات محوی<br>قسمت حرکتی سوماتیک<br>Phrenic: حرکت دیافراگم، C3-C5<br>Onuf: S2، دیافراگم لگنی<br>Accessory(شوکی): C1-C5، عضلات<br>"
+            ],
+            "guid": "g=Z`k{X:L!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Laminae های نخاعی",
+                "۱ تا ۶ خلفی<br>۷ بینابینی<br>۸ و ۹ قدامی <br>۱۰ اطراف کانال مرکزی<br><img src=\"paste-4f9f92564f7ba30d817abbd46a54b9f841c38448.jpg\">"
+            ],
+            "guid": "gx:KcCIu4J",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد و سگمان های هسته های شاخ قدامی anterior horn",
+                "Medial: تمام سگمان ها، حرکت عضلات محوری<br>Central (۳ تا)<br>Lateral: cervical and Lumbar enlargements، حرکت اندام ها"
+            ],
+            "guid": "z)Wik)UkF8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ماده ژلاتینی مرکزی نخاع چیست؟",
+                "لامینای ۱۰<br>اطراف کانال مرکزی"
+            ],
+            "guid": "J^4SL(xG4-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
