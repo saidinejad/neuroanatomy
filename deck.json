@@ -80,11 +80,22 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "070517_1036_FourthVentr2.jpg",
+        "ANKIDROID_202502231407073363565860244224418.jpg",
+        "cerebellar-peduncles.jpg",
+        "paste-03c3d752fe85422b030d114760b354a70432b8ce.jpg",
         "paste-176dce1c173a5c72a683485579a6d596db4dbd80.jpg",
+        "paste-44ad26915a8de90d243b167c62318b574a02d01e.jpg",
+        "paste-477d84f1b8f63c65820e9a71fd23386ae70c64bc.jpg",
+        "paste-4b56bf63d0a87bebfb2b77503e0f935850e2f357.jpg",
         "paste-4f9f92564f7ba30d817abbd46a54b9f841c38448.jpg",
+        "paste-63fd9238e3e124cf3fdecaea3b428893327b2e4d.jpg",
         "paste-6f34210626482b3f01b41ab60897613d9bd9b11d.jpg",
         "paste-8613cbca6b47adc0eb62b55f14f9ac12ee993bb5.jpg",
+        "paste-a880945f83ac0addb768386afb9d2559f068f238.jpg",
+        "paste-ac5204ef175f83af5646cb483ca51bcf47fcc101.jpg",
         "paste-cc3f3a3c568892a66686389d8d7ea2e998f891f8.jpg",
+        "paste-d8fb9c73f03b2a071e49e58131f98ac8c062b959.jpg",
         "paste-f52556e2ca554b2f98328e189b5f00c40338282c.jpg"
     ],
     "name": "neuroanatomy",
@@ -142,7 +153,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": "N4.L@20d5bf3",
+            "tags": "N4.L@8a40cf6",
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -195,7 +206,7 @@
             "__type__": "Note",
             "fields": [
                 "Cervical and Lumbar enlargements ",
-                "ناشی از شبکه بازویی و کمری<br>حجم ماده خاکستری بیشتر از سفید<br>C4-T2<br>T11-L1"
+                "ناشی از شبکه بازویی و کمری<br>حجم ماده خاکستری بیشتر از سفید<br>C5-T2<br>T11-L1"
             ],
             "guid": "z[5NRpoiP%",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -498,6 +509,616 @@
                 "لامینای ۱۰<br>اطراف کانال مرکزی"
             ],
             "guid": "J^4SL(xG4-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از شیار posterolateral و anterolateral، ..... خارج میشن",
+                "Rootlet"
+            ],
+            "guid": "Ca2,GC;_Tb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گراسیلیس حس .... از .... میاره<br>کونیتوس حس ..... از .... میاره ",
+                "Properioception درک عمقی از اندام تحتانی<br>درک عمقی از اندام فوقانی"
+            ],
+            "guid": "ATXJx}p@eW",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از T2 به پایین فقط راه گراسیلیس/ کونیتوس است",
+                "گراسیلیس (تا S2)"
+            ],
+            "guid": "Jn/aCh[5Tu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تراکم ماده خاکستری نخاع در مقاطع متفاوت",
+                "<img src=\"ANKIDROID_202502231407073363565860244224418.jpg\">"
+            ],
+            "guid": "yB>oe&[B6h",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rootlet ها در فضای .... دیده می شوند",
+                "Subarachnoid <br>مرطوبه با csf"
+            ],
+            "guid": "j:2~DkWvi;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دور اعصاب نخاعی ..... هست",
+                "سخت شامه<br>تا خروج از سوراخ بین مهره ای"
+            ],
+            "guid": "sKKN{OdY5%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اعصاب سمپاتیک و پاراسمپاتیک سوار عروق نخاعی میشن چرا؟",
+                "چون خودشون خیلی ظریفن نیاز به حمایت دارن"
+            ],
+            "guid": "HIjA$sh@b6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته‌ی چه اعصابی در ساقه مغز وجود دارد؟",
+                "زوج ۳ تا ۱۲ مغزی"
+            ],
+            "guid": "DI$fds#3uH",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Reticular Formation?<br>،what does it do?",
+                "تشکیلات مشبک<br>مجموعه ای از نورون ها در ساقه مغز و خارج از ان<br><img src=\"paste-03c3d752fe85422b030d114760b354a70432b8ce.jpg\"><br>عملکرد اصلی = هوشیاری و بیداری"
+            ],
+            "guid": "yUr:^$1?lD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت اسیب به قسمت تحتانی و فوقانی ساقه مغز",
+                "تحتانی =&gt; مراکز حیاتی =&gt; مرگ<br>فوقانی =&gt; تشکیلات مشبک =&gt; کما"
+            ],
+            "guid": "i@&#EY;ym^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where is Pontomedullary and Pontopeduncular sulcui?",
+                "بین بصل النخاع و پل مغزی<br>بین پل مغزی و مغز میانی"
+            ],
+            "guid": "rgi%@kQxaV",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از کدام نما مغز میانی به شکل دو peduncle دیده میشود؟",
+                "قدامی&nbsp;<br><img src=\"paste-ac5204ef175f83af5646cb483ca51bcf47fcc101.jpg\">"
+            ],
+            "guid": "m,%Z30AsiD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is interpeduncular space and what's inside?",
+                "فضای بین پایکی / فرورفتگی بین پایک های مغز میانی در قدام<br><br>حاوی اجسام پستانی mammillary"
+            ],
+            "guid": "Q.PYgmv9(p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اجسام پستانی همانند برجستگی های چهارگانه از اجزای مغز میانی هستند",
+                "غلطه. اجسام پستانی جزو ساقه مغز نیستند"
+            ],
+            "guid": "mxVqFn3M8y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چه عنصری فضای بین پایکی را سوراخ میکند؟",
+                "شریان مغز میانی"
+            ],
+            "guid": "gdI:#jJ6K:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is posterior perforated substance?",
+                "فضای بین پایکی در قسمت قدامی مغز میانی که توسط شریان های مغز میانی سوراخ شده<br><img src=\"paste-44ad26915a8de90d243b167c62318b574a02d01e.jpg\">"
+            ],
+            "guid": "Czx%Hm(|-J",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where are pyramids and olives of medulla?",
+                "بین شیار anterior median و anterolateral<br>بین شیاره anterolateral و posterolateral<br><img src=\"paste-a880945f83ac0addb768386afb9d2559f068f238.jpg\">"
+            ],
+            "guid": "D/<gJZ<Qhs",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what goes through basilar groove of pons?",
+                "basilar artery<br><img src=\"paste-d8fb9c73f03b2a071e49e58131f98ac8c062b959.jpg\"><img src=\"paste-d8fb9c73f03b2a071e49e58131f98ac8c062b959.jpg\">"
+            ],
+            "guid": "yyEI%gCuy*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "locations of 3-12 cranial nerves",
+                "<img src=\"paste-477d84f1b8f63c65820e9a71fd23386ae70c64bc.jpg\">"
+            ],
+            "guid": "mlo4z,cxY?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام اعصاب مغزی دارای دو ریشه هستند؟ هر ریشه مربوط به چیست؟",
+                "11 -&gt; مغزی/نخاعی<br>7 -&gt; حسی/حرکتی<br>5 -&gt; حسی/حرکتی"
+            ],
+            "guid": "s,S#y~?ZHy",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ریشه ی نخاعی عصب زوج ..... کلفت تر/ نازک تر از ریشه حرکتی ان است.",
+                "11<br>نازک تر"
+            ],
+            "guid": "pX7##fYw<;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در عصب زوج 5 ریشه ی ...... کلفت تر است.",
+                "حسی"
+            ],
+            "guid": "Nlw27sjCb#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد و محل پایک های مخچه",
+                "اتصال مخچه به پل مغزی<br><img alt=\"Cerebellar peduncles - definition\" src=\"cerebellar-peduncles.jpg\">"
+            ],
+            "guid": "x=}~}H$JD6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معنی tectum",
+                "peduncle"
+            ],
+            "guid": "M7$&Zc^Hsl",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در سطح خلفی مغز میانی چه اجزایی دیده می شود؟",
+                "برجستگی های چهارگانه<br>corpora quadrigemina"
+            ],
+            "guid": "qr0p|*TlMf",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد superior and inferior colliculus",
+                "superior: بینایی<br>inferior: شنوایی"
+            ],
+            "guid": "H@YUF,}t+r",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "غده ی صنوبری در کدام قسمت ساقه مغز قرار دارد؟",
+                "خط وسط colliculusهای فوقانی<br>(جزو مغز میانی نیست)"
+            ],
+            "guid": "JW$e+[J<LG",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عصب زوج چهارم مغزی از کجا منشا می گیرد و کجا دیده می شود؟",
+                "مبدا حقیقی: داخل ساقه مغز<br>مبدا ظاهری: پشت ساقه مغز، پایین colliculusهای تحتانی<br><img src=\"paste-4b56bf63d0a87bebfb2b77503e0f935850e2f357.jpg\">"
+            ],
+            "guid": "ljRJE}t2g5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام عصب مغزی مغز میانی را دور می زند؟",
+                "چهارم<br>تروکلئار"
+            ],
+            "guid": "k/PR%:?Xnj",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بخش بسته و باز بصل النخاع در کدام سطح دیده می شوند؟ نسبت به هم کجا قرار دارند؟",
+                "خلفی<br>قسمت بسته بالاست"
+            ],
+            "guid": "pO~()K%ITN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where are Gracillis and Cuneatus tubercles?",
+                "بین شیار posterior/dorsal median and posterolateral<br>گراسیلیس داخلی تر از کوتینوس"
+            ],
+            "guid": "inK1=eKu9@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در بصل النخاع نیز شیار intermediate دیده می شود.",
+                "درسته"
+            ],
+            "guid": "sP=J{?ULBp",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زیر برجستگی های زیتونی کدام هسته ها قرار دارند؟",
+                "inferior olivatory nuclei"
+            ],
+            "guid": "p7@Y%se;z<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "با حرکت از نخاع به بصل النخاع کانال مرکزی نخاعی به کدام جهت متمایل می شود؟",
+                "عقب و وسیع تر"
+            ],
+            "guid": "s$Xt4Ms<q?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در بصل النخاع همچنان مانند نخاع ماده خاکستری به شکل H وجود دارد.",
+                "غلطه<br>با حرکت و گشاد شدن کانال مرکزی به هم میریزه و هسته هسته میشه"
+            ],
+            "guid": "yT(PI,$66t",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سقف و کف بطن چهارم از نظر موقعیت آناتومیک چگونه هستند؟",
+                "سقف در واقع خلف و کف در واقع جلوه"
+            ],
+            "guid": "IDTL~b5l2.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ساختار سقف بطن چهارم از چیست؟",
+                "دو لایه سلول<br>خارجی تر = نرم شامه<br>داخلی تر = اپاندیمال"
+            ],
+            "guid": "w1!a1h_`(L",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what are Medullary Vellum parts?",
+                "superior<br>inferior"
+            ],
+            "guid": "Q)hOKif2Fw",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام قسمت medullary vellum دارای سوراخ است؟",
+                "inferior"
+            ],
+            "guid": "s,lf!h{s*v",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها راه ارتباطی بطن های مغزی با فضای subarachnoid",
+                "3 سوراخ:<br>دو تا طرفین = lateral/ Luschka<br>یکی وسط پایین = Magendie / median"
+            ],
+            "guid": "J>G>93kS$c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه تولید مایع مغزی-نخاعی CSF",
+                "choroid plexus<br>مویرگ های inferior medullary vellum<br>توسط سلول های اپاندیمال"
+            ],
+            "guid": "j[m<e=)RL?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شکل سلول های choroid plexus",
+                "شبیه T"
+            ],
+            "guid": "u]o@{)372o",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام مویرگ های مغزی نفوذ ناپذیرند.",
+                "نه مویرگای choroid plexus نفوذ پذیرن که مایع مغزی-نخاعی ساخته شه"
+            ],
+            "guid": "j/j1c+_hT.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در صورت انسداد سوراخ های Luschka و magendie بطن ها گشاد میشن یا فضای subarachnoid?",
+                "بطن ها چون منشا ساخت CSF داخل بطن چهارمه"
+            ],
+            "guid": "Q8@a;agX_o",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سیگنال کدام سلول ها باعث تشکیل شبکه کورویید میشه؟",
+                "اپاندیمال&nbsp;<br>choroid"
+            ],
+            "guid": "E@PK*.Z&dI",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what are Steria Medularies?",
+                "الیاف عصبی استریا که نازکن<br>از بصل النخاع به مخچه میرن<br>از محل جدا شدن قسمت بالایی و پایین بطن خارج میشن<br><img src=\"paste-63fd9238e3e124cf3fdecaea3b428893327b2e4d.jpg\">"
+            ],
+            "guid": "HZz/BZqXr[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where is sulcus limitant?",
+                "شیار محدود کننده<br>دو طرف خط وسط در بطن چهارم<br>بین صفحات alar (حسی) و basal (حرکتی) فاصله میندازه<br>(حکم همون latral sulcus نخاعو داره)"
+            ],
+            "guid": "Q^k^xa0^B8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where is medial eminence?",
+                "بین شیار محدود کننده و شیار وسط median<br>بطن چهارم<br>مثلث تحتانی و فوقانی"
+            ],
+            "guid": "LM)&(P&f!n",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what are Hypoglossal and vagal triangles?",
+                "روی برامدگی medial هستند<br>هایپوگلوس بالاتر از واگه<br>در مثلث تحتانی بطن چهارم<br><img alt=\"Fourth Ventricle – Earth's Lab\" src=\"070517_1036_FourthVentr2.jpg\">"
+            ],
+            "guid": "P{-IWARnf^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در مثلث فوقانی روی medial eminence چی هست؟",
+                "دوتا facial colliculus"
+            ],
+            "guid": "uCqX=NYx-;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام عنصر از محل facial colliculus عبور می کند؟",
+                "عصب زوج 7 یا فشیال"
+            ],
+            "guid": "dJY.9cvQ!`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام هسته زیر برجستگی facial قرار دارد؟",
+                "هسته زوج 6 یا abducens"
+            ],
+            "guid": "w?t?]$r|Kx",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "where is lateral/vestibular eminence?",
+                "برجستگی بعد از شیار محدودکننده در بطن چهارم"
+            ],
+            "guid": "kJ&r0ufeQb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زیر برجستگی vestibular کدام هسته قرار دارد؟",
+                "زوج 8 یا vestibulochochlear"
+            ],
+            "guid": "QgO,Ff5?C!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته های vestibular کجا قرار دارند؟<br>و چند عدد هستند؟",
+                "در زاویه های بطن چهارم<br>4 عدد (فوقانی / تحتانی / داخلی / خارجی)"
+            ],
+            "guid": "B-;i{3uUX+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام هسته vestibular به پل مغزی مرتبط است؟",
+                "فوقانی"
+            ],
+            "guid": "DvwhOGOK6k",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زاویه تحتانی بطن چهارم چه نام دارد؟",
+                "obex"
+            ],
+            "guid": "MuW!Gi%4gZ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کناره های تحتانی بطن چهارم چه نام دارند و در چه چیزی نقش دارند؟",
+                "posterma<br>استفراغ و تهوع"
+            ],
+            "guid": "jADw$U7HkN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "داروهای ضد تهوع چگونه بر مراکز مغزی خود اثر میگذارند؟",
+                "مرکز مغزیش posterma ست که سد خونی-مغزی نداره"
+            ],
+            "guid": "rm`uk4`V0U",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ناحیه Locus Coeruleus چه ویژگی ای دارد و کجا قرار دارد؟",
+                "نورون های دارای ملانین دارد / تشکیلات مشبک در این ناحیه هستند<br>در مثلث بالایی بطن چهارم در محل شیار محدود کننده"
+            ],
+            "guid": "pa2UU,(T)w",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام پایک مخچه خارجی تر است؟",
+                "medial میانی"
+            ],
+            "guid": "F+mUB~Uz-8",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
