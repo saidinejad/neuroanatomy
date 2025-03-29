@@ -84,18 +84,35 @@
         "ANKIDROID_202502231407073363565860244224418.jpg",
         "cerebellar-peduncles.jpg",
         "paste-03c3d752fe85422b030d114760b354a70432b8ce.jpg",
+        "paste-09697962d01723844663f530efe5b7fb705a3a5b.jpg",
         "paste-176dce1c173a5c72a683485579a6d596db4dbd80.jpg",
+        "paste-1d7e36bb039b92121e5e2c6bf7bc7c2374a46eec.jpg",
+        "paste-28b60b420aa0a30356a58fc5f55d5274ff9fe78f.jpg",
+        "paste-2e96f8e985301e607ac01c75b7f40e9bd819ad50.jpg",
+        "paste-3916aba7e830c9a8034ec8e73f846163863c7e83.jpg",
         "paste-44ad26915a8de90d243b167c62318b574a02d01e.jpg",
         "paste-477d84f1b8f63c65820e9a71fd23386ae70c64bc.jpg",
         "paste-4b56bf63d0a87bebfb2b77503e0f935850e2f357.jpg",
         "paste-4f9f92564f7ba30d817abbd46a54b9f841c38448.jpg",
+        "paste-58a3850376624f969b74ca902bccfaf4c35efa3e.jpg",
         "paste-63fd9238e3e124cf3fdecaea3b428893327b2e4d.jpg",
+        "paste-6ac1872d4645aedcf76acb707ba0666aa464bc08.jpg",
+        "paste-6c7a61bc859920517d93e4d1c678f669060425c4.jpg",
         "paste-6f34210626482b3f01b41ab60897613d9bd9b11d.jpg",
+        "paste-7a283bd9cfc4d9d08340ba5d5707617ef2f0417e.jpg",
         "paste-8613cbca6b47adc0eb62b55f14f9ac12ee993bb5.jpg",
+        "paste-869ce09502211712685b23ae50fa94ea3d95997b.jpg",
+        "paste-8d35d7a9387222c904e868a1f7d56eb48fcf873c.jpg",
         "paste-a880945f83ac0addb768386afb9d2559f068f238.jpg",
         "paste-ac5204ef175f83af5646cb483ca51bcf47fcc101.jpg",
+        "paste-bc4ed997fafbb59b6c39c74f0dae13216d69b729.jpg",
         "paste-cc3f3a3c568892a66686389d8d7ea2e998f891f8.jpg",
         "paste-d8fb9c73f03b2a071e49e58131f98ac8c062b959.jpg",
+        "paste-dc68fade2ccc5ade15494f560cbded72a42c214b.jpg",
+        "paste-deb29c906c76029ed45b84909761ada67c90aa1a.jpg",
+        "paste-e10a1d0d5a4169295a09a5179848f77704267098.jpg",
+        "paste-eae15763e6db648591c583531772935bb99c9027.jpg",
+        "paste-f083ecfa70083d1122103f24f608dd5a2b5aa112.jpg",
         "paste-f52556e2ca554b2f98328e189b5f00c40338282c.jpg"
     ],
     "name": "neuroanatomy",
@@ -169,6 +186,120 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f19a8517-ef6f-11ef-9908-d4548b111f10",
+            "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7525245898866314977,
+                    "name": "Occlusion",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4563712497999825950,
+                    "name": "Image",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3407267547161784728,
+                    "name": "Header",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 2
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6898126710737591114,
+                    "name": "Back Extra",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 3
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1379972939400525484,
+                    "name": "Comments",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 4
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion",
+            "originalStockKind": 6,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{#Header}}<div>{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n\n<div><button id=\"toggle\">Toggle Masks</button></div>\n{{#Back Extra}}<div>{{Back Extra}}</div>{{/Back Extra}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6341684870955231473,
+                    "name": "Image Occlusion",
+                    "ord": 0,
+                    "qfmt": "{{#Header}}<div>{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [
@@ -1119,6 +1250,479 @@
                 "medial میانی"
             ],
             "guid": "F+mUB~Uz-8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چادرینه مخچه کجاست و چه عملکردی دارد؟",
+                "بین مخچه و لوب پس سری<br>جلوگیری از افتادن وزن مغز روی مخچه<br>tentorium cerebelli<br><img src=\"paste-eae15763e6db648591c583531772935bb99c9027.jpg\">"
+            ],
+            "guid": "qNsaYYre(C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فتق مخچه ای از کجا صورت میگیرد و معمولا کدام قسمت مخچه اول دچار این فتق می شود؟",
+                "از فورامن مگنوم<br>لوزه ها"
+            ],
+            "guid": "H3D(8KtS^i",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SPC / MCP / ICP مخفف چی هستن؟",
+                "superior/middle/inferior cerebellar peduncle<br><img src=\"paste-7a283bd9cfc4d9d08340ba5d5707617ef2f0417e.jpg\">"
+            ],
+            "guid": "FZINUzlogM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "لوزه های مخچه کجاست؟ tonsil",
+                "جزیی از لوب خلفی<br><img src=\"paste-dc68fade2ccc5ade15494f560cbded72a42c214b.jpg\">"
+            ],
+            "guid": "Ni=<[)$X{B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "لوب های مخچه",
+                "<img src=\"paste-bc4ed997fafbb59b6c39c74f0dae13216d69b729.jpg\"><br><img src=\"paste-58a3850376624f969b74ca902bccfaf4c35efa3e.jpg\">"
+            ],
+            "guid": "E6Gg~q_XX#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شیار اولیه مخچه کجاست؟",
+                "بین لوب قدامی و خلفی<br>اولین شیار در دوره جنینی<br><img src=\"paste-1d7e36bb039b92121e5e2c6bf7bc7c2374a46eec.jpg\">"
+            ],
+            "guid": "p}-?3n(}^g",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شیار خلفی-جانبی مخچه کجاست؟",
+                "بین لوب خلفی و فلوکولوندولار&nbsp;<br><img src=\"paste-8d35d7a9387222c904e868a1f7d56eb48fcf873c.jpg\"><br><img src=\"paste-2e96f8e985301e607ac01c75b7f40e9bd819ad50.jpg\">"
+            ],
+            "guid": "mHMYu^H9Vy",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بزرگترین لوب مخچه؟",
+                "لوب خلفی (میانی)"
+            ],
+            "guid": "x?OHJZeg>e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قسمت های مختلف لوب flocculonodular",
+                "<img src=\"paste-869ce09502211712685b23ae50fa94ea3d95997b.jpg\">"
+            ],
+            "guid": "kfcGJ^77<8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مخچه باستانی / قدیمی / جدید کدام قسمت ها هستند؟",
+                "نخاعی (قدیمی) = <span style=\"background-color: rgb(85, 0, 0);\">قدامی </span>+ کمی خلفی + هسته کروی و لخته ای<br>دهلیزی (باستانی) = <span style=\"background-color: rgb(85, 0, 0);\">فولوکولوندولار </span>+ هسته شیروانی<br>مخی (جدید) = <span style=\"background-color: rgb(85, 0, 0);\">خلفی </span>+ هسته دندانه ای"
+            ],
+            "guid": "g1`!x-g}l+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ضخامت ماده خاکستری در مخچه همانند مخ ثابت است.",
+                "غلطه<br>توی مخ ضخامت متغیره ولی توی مخچه یکسانه"
+            ],
+            "guid": "H#ENWt|c-/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is folia",
+                "برامدگی ناشی از شیارهای مخچه<br><img src=\"paste-28b60b420aa0a30356a58fc5f55d5274ff9fe78f.jpg\">"
+            ],
+            "guid": "vQFz4I@)+c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "درخت زندگی مخچه در واقع همان ماده خاکستری آن است.",
+                "غلطه<br>ماده سفیده arbor vitae"
+            ],
+            "guid": "RbmIy#G(^2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::image-occlusion:rect:left=.0011:top=.6488:width=.153:height=.1246:oi=1}}<br>{{c1::image-occlusion:rect:left=.0057:top=.8218:width=.1438:height=.083:oi=1}}<br>{{c1::image-occlusion:rect:left=.7911:top=.6557:width=.1621:height=.083:oi=1}}<br>{{c1::image-occlusion:rect:left=.7683:top=.7733:width=.1941:height=.1176:oi=1}}<br>",
+                "<img src=\"paste-6ac1872d4645aedcf76acb707ba0666aa464bc08.jpg\">",
+                "",
+                "",
+                ""
+            ],
+            "guid": "GC5_d^O#I]",
+            "note_model_uuid": "f19a8517-ef6f-11ef-9908-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هر هسته ی مخچه با کدام لوب آن مرتبط است؟",
+                "شیروانی (بامی) = باستانی<br>کروی + لخته ای = قدیمی<br>دندانه ای = جدید"
+            ],
+            "guid": "wL:GZs]]tG",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نام دیگر هسته کروی و لخته ای و دندانه ای",
+                "کروی = زیتونی فرعی داخلی<br>لخته ای = زیتونی فرعی خارجی<br>دندانه ای = زیتونی مخچه"
+            ],
+            "guid": "Ng3F`KgzL9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام هسته مخچه ای ممکن است 4 عدد باشد؟",
+                "کروی"
+            ],
+            "guid": "E.hBDxJXM(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "لایه های قشر مخچه:",
+                "1. مولکولی<br>2. پورکنژ<br>3. گرانولار"
+            ],
+            "guid": "Ex.~i:h7Cr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نورون های لایه مولکولی مخچه",
+                "نورون سبدی + ستاره ای<br>basket + stellate cells"
+            ],
+            "guid": "O3k!1Z$:7T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دندریت و اکسون سلول های پورکنژ کجاست؟",
+                "دندریت در لایه مولکولی آکسون وارد ماده سفید می شود"
+            ],
+            "guid": "G>%>sA}>c(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها خروجی قشر مخ ...... است.",
+                "اکسون نورون های پورکنژ"
+            ],
+            "guid": "NwU+P.va;[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دندریت و اکسون نورون های گرانولار در کدام لایه قرار دارند؟",
+                "دندریت در لایه گرانولار<br>اکسون در لایه مولکولی"
+            ],
+            "guid": "bFU}TFvvOm",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف موازی چیستند؟",
+                "اکسون نورون های گرانولار که وارد لایه مولکولی شده اند و به دو شاخه تقسیم شده اند"
+            ],
+            "guid": "w/76.X&3}R",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف آوران قشر مخچه چیستند؟",
+                "1. خزه ای mossy<br>2. بالارونده climbing"
+            ],
+            "guid": "c$^54b[J;b",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت الیاف خزه ای و بالارونده در چیست؟",
+                "الیاف خزه ای ابتدا با سلول های گرانولار سیناپس میدن و بعد سلولای گرانولار به پورکنژ میرسن<br>الیاف بالارونده مستقیم با پورکنژ سیناپس میدن"
+            ],
+            "guid": "eN+l.--hf%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام ورودی های مخچه با الیاف خزه ای و کدام با الیاف بالارونده منتقل میشوند؟",
+                "همه با خزه ای به جز مسیر زیتونی-مخچه ای olivocerebellar"
+            ],
+            "guid": "h6Z[Ia38>m",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف وابران از قشر مخچه چیستند؟",
+                "اکسون سلول های پورکنژ"
+            ],
+            "guid": "C_zqVG(aTM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف ماده سفید مخچه چیست؟",
+                "حقیقی(از مخچه خارج نمیشوند) = ارتباط دهنده(داخل یک نیمکره) + رابط(بین دو نیمکره)<br>پرتابی (مخچه به سایر قسمت ها)"
+            ],
+            "guid": "o%fC!^Rje1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکردهای اصلی مخچه:",
+                "1. تعادل<br>2. تون عضلانی و هماهنگی عضلات و کارهای بزرگ gross<br>3. اعمال ظریف fine"
+            ],
+            "guid": "Oi/7Y9dSc}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مخچه دهلیزی کدام لوب است و در کدام عملکرد دخیل است؟",
+                "لوب فولوکولوندولار و هسته fastigial یا شیروانی<br>مخچه باستانی<br><br>تعادل"
+            ],
+            "guid": "y]m`R!($1D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسیر تعادلی تا رسیدن به مخچه:",
+                "بخش دهلیزی عصب زوج هشتم مغزی<br>internal acoustic meatus<br>ورود به ساقه مغز از شیار pontomedullary<br>سیناپس در هسته vestibular در زاویه طرفی بطن چهارم<br>پایک تحتانی مخچه<br><img src=\"paste-e10a1d0d5a4169295a09a5179848f77704267098.jpg\">"
+            ],
+            "guid": "El`,2V?|WE",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسیر عملکرد تعادلی در خود مخچه",
+                "پایک تحتانی<br>الیاف خزه ای<br>نورون گرانولار<br>پورکنژ<br>هسته شیروانی<br>وابران fastigiocerebellar<br>پایک تحتانی"
+            ],
+            "guid": "ez*^x@::1!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خروجی های مسیر تعادلی مخچه",
+                "1. هسته دهلیزی بصل النخاع -&gt; مسیر vestibulospinal به شاخ قدامی نخاع =&gt; مهار فلکسور و تحریک اکستنسور<br>2. هسته دهلیزی بصل النخاع -&gt; هسته های زوج 3و4و6 و تشکیلات مشبک =&gt; اسم مسیر = medial longitudinal fasciculus MLF =&gt; تنظیم حرکات چشم و سر و گردن<br><img src=\"paste-e10a1d0d5a4169295a09a5179848f77704267098.jpg\">"
+            ],
+            "guid": "nwKZ>T=!YK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نوزادان به علت ناقص بودن مسیر ..... نمیتوانند گردن بگیرند.",
+                "MLF"
+            ],
+            "guid": "pf*0e*w5w?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is nystagmus?",
+                "حرکات نوسانی و خود به خود چشم ها<br>علل: مسمومیت با سرب یا اسیب به MLF"
+            ],
+            "guid": "J5Zr&0bu(p",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مخچه نخاعی / دهلیزی / مخی",
+                "نخاعی (قدیمی) = قدامی + کمی خلفی + هسته کروی و لخته ای<br>دهلیزی (باستانی) = فولوکولوندولار + هسته شیروانی<br>مخی (جدید) = خلفی + هسته دندانه ای"
+            ],
+            "guid": "v~sXGzGA`K",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اطلاعات کدام حس وارد مخچه نخاعی میشوند؟",
+                "proprioception"
+            ],
+            "guid": "jQnnX3q{v*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف دخیل آوران مخچه نخاعی برای عملکرد هماهنگی عضلات و gross movement",
+                "cuneocerebellar<br>anterior spinocerebellar<br>posterior spinocerebellar<br>trigeminocerebellar<br>olivocerebellar"
+            ],
+            "guid": "EcND3~lL{D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف <br>cuneocerebellar<br>anterior spinocerebellar<br>posterior spinocerebellar<br>trigeminocerebellar<br>olivocerebellar<br>پیام های کدام اندام ها را از کدام پایک وارد مخچه میکنند؟",
+                "cuneocerebellar: گردن و اندام فوقانی از پایک تحتانی<br>anterior spinocerebellar: اندام تحتانی و نیمه تحتانی تنه از پایک فوقانی<br>posterior spinocerebellar: اندام تحتانی و نیمه تحتانی تنه از پایک تحتانی<br>trigeminocerebellar: سر و صورت از پایک فوقانی<br>olivocerebellar: راه spinoolivary از پایک تحتانی"
+            ],
+            "guid": "uWolQfP7-0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هر یک از الیاف&nbsp;<br>cuneocerebellar<br>anterior spinocerebellar<br>posterior spinocerebellar<br>trigeminocerebellar<br>olivocerebellar<br>پیام را از کدام هسته میاورند؟",
+                "cuneocerebellar: هسته کونئاتوس فرعی بصل النخاع<br>anterior spinocerebellar: هسته کلارک نخاع<br>posterior spinocerebellar: هسته کلارک نخاع<br>trigeminocerebellar: قسمت مزانسفالیک هسته تری ژمینال<br>olivocerebellar: هسته زیتونی"
+            ],
+            "guid": "C^jw2oUF91",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسیر خروج پیام های gross movement",
+                "هسته های کروی و لخته ای<br>پایک فوقانی<br>مغز میانی<br>1. هسته قرمز<br>rubrospinal<br>شاخ قدامی نخاع<br>تحریک فلکسور + مهار اکستنسور<br>2. هسته VL&nbsp; تالاموس<br>قشر حرکتی مخ<br>الیاف corticospinal<br>شاخ قدامی نخاع<br><img src=\"paste-09697962d01723844663f530efe5b7fb705a3a5b.jpg\">"
+            ],
+            "guid": "zUBmF7,1U]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الیاف دخیل آوران مخچه مخی برای عملکرد حرکات ظریف",
+                "corticopontocerebellar<br>corticoarcuatocerebellar<br>corticoolivocerebellar"
+            ],
+            "guid": "LN@jaE?`b)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد الیاف corticopontocerebellar در مسیر حرکات ظریف",
+                "قشر مخ<br>هسته های پلی مغز میانی<br>رشته های pontocerebellar<br>پایک میانی<br>قشر مخچه مخی"
+            ],
+            "guid": "n#pm>46pF~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد الیاف corticoarcuatocerebellar در مسیر حرکات ظریف",
+                "قشر مخ<br>رشته های corticoarcuate<br>هسته های قوسی بصل النخاع&nbsp;<br>پایک تحتانی<br>قشر مخچه مخی"
+            ],
+            "guid": "I<l+ZW^nXG",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد الیاف corticoolivocerebellar در مسیر حرکات ظریف",
+                "قشر حرکتی مخ<br>رشته های corticoolive<br>هسته های زیتونی تحتانی<br>رشته های olivocerebellar<br>پایک تحتانی<br>(الیاف بالارونده -&gt; پورکنژ)<br>مخچه مخی"
+            ],
+            "guid": "sH1N4m5F-8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خروجی مسیر عملکردی حرکات ظریف",
+                "پایک فوقانی<br>مغز میانی<br>هسته های VL + VA تالاموس<br>قشر حرکتی مخ<br><img src=\"paste-f083ecfa70083d1122103f24f608dd5a2b5aa112.jpg\">"
+            ],
+            "guid": "b<nTHaVU:q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هریک از پایک های مخچه به کدام بخش مرتبط میشوند و از کدام الیاف تشکیل شده اند؟",
+                "تحتانی = بصل النخاع / آوران و وابرانِ<br><img src=\"paste-6c7a61bc859920517d93e4d1c678f669060425c4.jpg\"><br>میانی = پل مغزی / آوران<br><img src=\"paste-deb29c906c76029ed45b84909761ada67c90aa1a.jpg\"><br>فوقانی = مغزمیانی / آوران و وابران<br><img src=\"paste-3916aba7e830c9a8034ec8e73f846163863c7e83.jpg\">"
+            ],
+            "guid": "n~5j!V*`Bh",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
