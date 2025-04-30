@@ -10,7 +10,7 @@
             "autoplay": true,
             "buryInterdayLearning": false,
             "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
-            "desiredRetention": 0.9,
+            "desiredRetention": 0.94,
             "dyn": false,
             "easyDaysPercentages": [
                 1.0,
@@ -21,9 +21,29 @@
                 1.0,
                 1.0
             ],
-            "fsrsParams5": [],
+            "fsrsParams5": [
+                28.6978,
+                28.9891,
+                29.1933,
+                29.1933,
+                7.1964,
+                0.5564,
+                1.4667,
+                0.001,
+                1.5688,
+                0.1081,
+                1.0313,
+                1.9345,
+                0.116,
+                0.2938,
+                2.2643,
+                0.2368,
+                3.0473,
+                0.5283,
+                0.6948
+            ],
             "fsrsWeights": [],
-            "ignoreRevlogsBeforeDate": "",
+            "ignoreRevlogsBeforeDate": "1970-01-01",
             "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
@@ -62,7 +82,7 @@
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 36500,
+                "maxIvl": 365,
                 "perDay": 200
             },
             "reviewOrder": 0,
@@ -170,7 +190,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": "N4.L@8a40cf6",
+            "tags": "N4.L@ed84562",
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -476,7 +496,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Grey commissure ",
+                "Grey commissure <br>رابط خاکستری",
                 "ماده‌ی خاکستری نخاع در اطراف کانال مرکزی که دو بخش راست و چپ رو متصل میکنه<br><img src=\"paste-8613cbca6b47adc0eb62b55f14f9ac12ee993bb5.jpg\">"
             ],
             "guid": "o*~2F@wo8p",
